@@ -2,7 +2,7 @@
 
 Me considero una persona activa, responsable, organizada, creativa, flexible y detallista. Acostumbrada a trabajar en equipo, con una orientación clara al logro de resultados. Con ansias de superar nuevos desafíos, de seguir aprendiendo y desarrollarme tanto personal como profesionalmente. 
 
-Estoy terminando un Bootcamp intensivo en Henry donde aprendimos herramientas como:
+Actualmente terminando un Bootcamp intensivo en Henry de FullStack Developer, donde aprendimos herramientas como:
 * Javascript
 * React.js
 * Redux
