@@ -15,11 +15,9 @@ Estoy terminando un Bootcamp intensivo en Henry donde aprendimos herramientas co
 * Sequelize
 
 Podes encontrar más de mí en:
-[LinkedIn](https://www.linkedin.com/in/florencia-ciccione/)
-[Twitter](https://twitter.com/FlorCiccione)
-[Instagram](https://www.instagram.com/florenciaciccione/)
-
-
+- [LinkedIn](https://www.linkedin.com/in/florencia-ciccione/)
+- [Twitter](https://twitter.com/FlorCiccione)
+- [Instagram](https://www.instagram.com/florenciaciccione/)
 
 <!--
 **florciccione/florciccione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
