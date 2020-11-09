@@ -2,7 +2,7 @@
 
 Una persona activa, organizada, creativa y flexible. Acostumbrada a trabajar en equipo, con una orientación clara al logro de resultados. Con ansias de superar nuevos desafíos, de seguir aprendiendo y desarrollarme profesionalmente. 
 
-Full Stach Web Developer, egresada de [Henry](https://www.soyhenry.com/), donde aprendimos herramientas como:
+Full Stack Web Developer, egresada de [Henry](https://www.soyhenry.com/), donde aprendimos herramientas como:
 * Javascript
 * React.js
 * Redux
