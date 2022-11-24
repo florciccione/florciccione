@@ -1,18 +1,21 @@
 ### Hola Soy Flor! 👋
 
-Una persona activa, organizada, creativa y flexible. Acostumbrada a trabajar en equipo, con una orientación clara al logro de resultados. Con ansias de superar nuevos desafíos, de seguir aprendiendo y desarrollarme profesionalmente. 
+Activa, organizada, creativa y flexible. Acostumbrada a trabajar en equipo, con una orientación clara al logro de resultados. Con ansias de superar nuevos desafíos, de seguir aprendiendo y desarrollarme profesionalmente. 
 
-Full Stack Web Developer, egresada de [Henry](https://www.soyhenry.com/), donde aprendimos herramientas como:
-* Javascript
+Full Stack Web Developer, egresada de [Henry](https://www.soyhenry.com/)
+
+Llevo más de 2 años desempeñándome como Front End Developer.
+
+* Javascript - ES6
 * React.js
-* Redux
-* HTML
+* Hooks
+* Custom Hooks
 * CSS
-* LESS
-* Express
-* Node.js
+* Styled Components
+* Material UI
+* HTML
 * Git
-* Sequelize
+* Redux
 
 Podes encontrar más de mí en:
 - [LinkedIn](https://www.linkedin.com/in/florencia-ciccione/)
