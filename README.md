@@ -4,7 +4,7 @@ Activa, organizada, creativa y flexible. Acostumbrada a trabajar en equipo, con 
 
 Full Stack Web Developer, egresada de [Henry](https://www.soyhenry.com/)
 
-Llevo más de 2 años desempeñándome como Front End Developer.
+Llevo más de 3 años desempeñándome como Front End Developer.
 
 * Javascript - ES6
 * React.js
@@ -13,7 +13,10 @@ Llevo más de 2 años desempeñándome como Front End Developer.
 * CSS
 * Styled Components
 * Material UI
+* Tailwindcss
 * HTML
+* Astro
+* TypeScript
 * Git
 * Redux
 
