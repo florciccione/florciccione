@@ -5,20 +5,18 @@ Especializada en crear interfaces pixel-perfect y sistemas de componentes escala
 
 Senior Frontend Developer | UI Engineer (más de 5 años de experiencia)
 
-* Javascript - ES6
+* JavaScript / TypeScript
 * React.js
 * Next.js
 * Hooks
 * Custom Hooks
-* CSS
 * Styled Components
 * MUI
 * Tailwindcss
-* HTML
+* HTML / CSS
 * Astro
-* TypeScript
 * Git
-* Redux
+* Redux Toolkit
 
 Podes encontrar más de mí en:
 - [LinkedIn](https://www.linkedin.com/in/florencia-ciccione/)
