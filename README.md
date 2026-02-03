@@ -1,18 +1,18 @@
 ### Hola Soy Flor! 👋
 
 Activa, organizada, creativa y flexible. Acostumbrada a trabajar en equipo, con una orientación clara al logro de resultados. Con ansias de superar nuevos desafíos, de seguir aprendiendo y desarrollarme profesionalmente. 
+Especializada en crear interfaces pixel-perfect y sistemas de componentes escalables con React y Next.js
 
-Full Stack Web Developer, egresada de [Henry](https://www.soyhenry.com/)
-
-Llevo más de 3 años desempeñándome como Front End Developer.
+Senior Frontend Developer | UI Engineer (más de 5 años de experiencia)
 
 * Javascript - ES6
 * React.js
+* Next.js
 * Hooks
 * Custom Hooks
 * CSS
 * Styled Components
-* Material UI
+* MUI
 * Tailwindcss
 * HTML
 * Astro
