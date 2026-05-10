@@ -1,24 +1,22 @@
-### Hola Soy Flor! 👋
 
-Activa, organizada, creativa y flexible. Acostumbrada a trabajar en equipo, con una orientación clara al logro de resultados. Con ansias de superar nuevos desafíos, de seguir aprendiendo y desarrollarme profesionalmente. 
-Especializada en crear interfaces pixel-perfect y sistemas de componentes escalables con React y Next.js
+### Hola, soy Flor 👋
 
-Senior Frontend Developer | UI Engineer (más de 5 años de experiencia)
+**Senior Frontend Developer** con +5 años de experiencia creando interfaces pixel-perfect con React y Next.js.
 
-* JavaScript / TypeScript
-* React.js
-* Next.js
-* Hooks
-* Custom Hooks
-* Styled Components
-* MUI
-* Tailwindcss
-* HTML / CSS
-* Astro
-* Git
-* Redux Toolkit
+Lo que más disfruto de mi trabajo es tomar un diseño en Figma y convertirlo en una interfaz que funcione bien, rinda bien y se vea exactamente como fue diseñada. Me obsesionan los detalles visuales, la consistencia en los componentes y escribir código que otros puedan entender y mantener.
 
-Podes encontrar más de mí en:
+## 🛠 Stack actual
+
+**Core:** React 18 · Next.js 14 · TypeScript · JavaScript  
+**Estado:** Redux Toolkit · React Query  
+**UI:** MUI v5 · Tailwind · Styled Components · HTML semántico · CSS  
+**Herramientas:** Git · GitHub · Linear · Figma · Astro · Claude Code · Cursor  
+
+## 💼 Experiencia
+
+Actualmente trabajo en **Darwin AI**, desarrollando interfaces para una plataforma SaaS de agentes virtuales con IA. Antes pasé por **Cultura IT** (múltiples proyectos con distintos clientes) y **Sirena/Zenvia** (producto de mensajería multicanal usado por miles de empresas en LATAM).
+
+## 📫 Podes encontrar más de mí en:
 - [LinkedIn](https://www.linkedin.com/in/florencia-ciccione/)
 - [Twitter](https://twitter.com/FlorCiccione)
 - [Instagram](https://www.instagram.com/florenciaciccione/)
